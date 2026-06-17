@@ -1,33 +1,47 @@
 #EXTM3U
 
-# ===== NEWS =====
-#EXTINF:-1 group-title="News",Ekattor HD
+# ===== NEWS CHANNELS =====
+
+#EXTINF:-1 tvg-chno="01" tvg-logo="logos/ekattor.png" group-title="News",01 - Ekattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="News",Somoy TV
+
+#EXTINF:-1 tvg-chno="02" tvg-logo="logos/somoy.png" group-title="News",02 - Somoy TV HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 group-title="News",Jamuna TV
+
+#EXTINF:-1 tvg-chno="03" tvg-logo="logos/jamuna.png" group-title="News",03 - Jamuna TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="News",Independent Tv
+
+#EXTINF:-1 tvg-chno="04" tvg-logo="logos/independent.png" group-title="News",04 - Independent TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="News",Channel 24 HD
+
+#EXTINF:-1 tvg-chno="05" tvg-logo="logos/channel24.png" group-title="News",05 - Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="News",Jago News 24
+
+#EXTINF:-1 tvg-chno="06" tvg-logo="logos/jagonews.png" group-title="News",06 - Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title="News",Channel one
+
+#EXTINF:-1 tvg-chno="07" tvg-logo="logos/channelone.png" group-title="News",07 - Channel One
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="News",News 24 HD
+
+#EXTINF:-1 tvg-chno="08" tvg-logo="logos/news24.png" group-title="News",08 - News24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1 group-title="News",Ekhon TV
+
+#EXTINF:-1 tvg-chno="09" tvg-logo="logos/ekhon.png" group-title="News",09 - Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News",ATN News
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="logos/atnnews.png" group-title="News",10 - ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="News",DBC News HD
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="logos/dbc.png" group-title="News",11 - DBC News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title="News",Star News
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="logos/starnews.png" group-title="News",12 - Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-#EXTINF:-1 group-title="News",Al jajera
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="logos/aljazeera.png" group-title="News",13 - Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="News",Wion
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="logos/wion.png" group-title="News",14 - WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 # ===== BANGLA TV =====
