@@ -1,0 +1,26 @@
+name: IPTV Auto Update
+
+on:
+  push:
+    paths:
+      - 'playlist.m3u'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update timestamp (force refresh)
+        run: |
+          echo "# Last update: $(date)" >> playlist.m3u
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-bot"
+          git config --global user.email "bot@github.com"
+          git add playlist.m3u
+          git commit -m "Auto update playlist" || exit 0
+          git push
