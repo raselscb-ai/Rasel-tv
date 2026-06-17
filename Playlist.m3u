@@ -9,9 +9,6 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="News",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="JagoNews24" tvg-name="Jago News 24" group-title="News",Jago News 24
-https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="News",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="News",Jago News 24
