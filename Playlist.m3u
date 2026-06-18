@@ -1,119 +1,232 @@
 #EXTM3U
 
-# ===== NEWS CHANNELS =====
+# ===== NEWS =====
 
-#EXTINF:-1 tvg-chno="01" tvg-logo="logos/ekattor.png" group-title="News",01 - Ekattor TV HD
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Ekattor_TV_logo.png",Ekattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="02" tvg-logo="logos/somoy.png" group-title="News",02 - Somoy TV HD
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Somoy_TV_logo.png",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="03" tvg-logo="logos/jamuna.png" group-title="News",03 - Jamuna TV HD
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Jamuna_Television_logo.png",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="04" tvg-logo="logos/independent.png" group-title="News",04 - Independent TV HD
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Independent_Television_logo.png",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="05" tvg-logo="logos/channel24.png" group-title="News",05 - Channel 24 HD
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Channel24_logo.png",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="06" tvg-logo="logos/jagonews.png" group-title="News",06 - Jago News 24
+#EXTINF:-1 tvg-chno="6" tvg-logo="",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="07" tvg-logo="logos/channelone.png" group-title="News",07 - Channel One
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-logo="",Chnl One
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="08" tvg-logo="logos/news24.png" group-title="News",08 - News24 HD
+#EXTINF:-1 tvg-chno="8" tvg-logo="",News 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="09" tvg-logo="logos/ekhon.png" group-title="News",09 - Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-logo="",Ekhon TV
+https://app24.jagobd.com.bd/globaltv.stream/mono.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="logos/atnnews.png" group-title="News",10 - ATN News
+#EXTINF:-1 tvg-chno="10" tvg-logo="",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="logos/dbc.png" group-title="News",11 - DBC News HD
+#EXTINF:-1 tvg-chno="11" tvg-logo="",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="logos/starnews.png" group-title="News",12 - Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
-
-#EXTINF:-1 tvg-chno="13" tvg-logo="logos/aljazeera.png" group-title="News",13 - Al Jazeera English
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-chno="14" tvg-logo="logos/wion.png" group-title="News",14 - WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-# ===== BANGLA TV =====
-#EXTINF:-1 group-title="Bangla TV",Channel i HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",RTV HD
-http://116.204.149.16/rtvhd/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",BanglaVision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",Maasranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",Deepto TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla TV",Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title="Bangla TV",BTV National
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-
-# ===== SPORTS =====
-#EXTINF:-1 group-title="Sports",T Sports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",Gazi TV HD
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-
-# ===== MOVIES =====
-#EXTINF:-1 group-title="Movies",Sony Max
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.m3u8
-#EXTINF:-1 group-title="Movies",Sony Max HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.m3u8
-#EXTINF:-1 group-title="Movies",Zee Cinema HD
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_cinema_hd/index.m3u8
-#EXTINF:-1 group-title="Movies",Zee Action
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_action/index.m3u8
-#EXTINF:-1 group-title="Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 group-title="Movies",Sony Pix HD
-https://edge2.roarzone.net:8447/roarzone/edge3/sonypix_hd/index.m3u8
-
-# ===== KIDS =====
-#EXTINF:-1 group-title="Kids",Duronto
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kids",Joy
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Kids Star
-https://nomawnoijl.gpcdn.net/akash/kidsstars/chunks.m3u8
-
-# ===== ISLAMIC =====
-#EXTINF:-1 group-title="Islamic",Al Quran
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 group-title="Islamic",Islamic TV
-https://sm-monirul.top/toffee/play/islamic_tv.m3u8
-#EXTINF:-1 group-title="Islamic",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-logo="",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 # ===== INTERNATIONAL =====
-#EXTINF:-1 group-title="International",Al Jazeera
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Aljazeera_logo.svg",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="International",WION
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-# ===== DOCUMENTARY =====
-#EXTINF:-1 group-title="Documentary",Animal Planet
-https://edge2.roarzone.net:8447/roarzone/edge3/animal_planet_sd/index.m3u8
-#EXTINF:-1 group-title="Documentary",Adventure Earth
-https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",WildEarth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Documentary",Outdoor Channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+# ===== RELIGIOUS =====
+
+#EXTINF:-1 tvg-chno="15" tvg-logo="",Islamic TV
+https://sm-monirul.top/toffee/play/islamic_tv.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="",Peace TV
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/mono.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="",Al Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+# ===== BANGLA GENERAL =====
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="",Duronto TV
+https://app24.jagobd.com.bd/duronto.stream/mono.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="",RTV HD
+http://116.204.149.16/rtvhd/index.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="",ATN Bangla
+https://app24.jagobd.com.bd/atnbd-8-org.stream/mono.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-logo="",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-logo="",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-logo="",Ekushey TV
+http://210.4.72.204/live.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-logo="",BTV National
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+# ===== SPORTS / ENTERTAINMENT =====
+
+#EXTINF:-1 tvg-chno="31" tvg-logo="",Gazi TV
+https://tvsen1.aynaott.com/gtv/mono.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-logo="",SATV
+http://116.204.149.16/satv/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-logo="",NRB TV
+https://app.ncare.live/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-logo="",Green TV
+https://app.ncare.live/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="",Asian TV
+https://mtlivestream.com/asian/ytlive.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-logo="",SRK TV
+https://srktv.stream/live.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-logo="",ME TV
+https://iptvbd.live/metv.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-logo="",G Series
+https://vods2.aynaott.com/gseries/mono.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="",Channel S UK
+https://app.ncare.live/chsuk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-logo="",T Sports
+http://198.195.239.50:8095/tsports.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="",Joy TV
+https://nomawnoijl.gpcdn.net/joy/playlist.m3u8
+
+# ===== MOVIES / KIDS / OTHERS =====
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="",Sony Max
+https://edge2.roarzone.net/sonymax.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-logo="",Sony Max HD
+https://edge2.roarzone.net/sonymaxhd.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-logo="",Dubbed Movie
+dd
+
+#EXTINF:-1 tvg-chno="45" tvg-logo="",Zee Cinema HD
+https://edge2.roarzone.net/zeecinema.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-logo="",Zee Action
+https://edge2.roarzone.net/zeeaction.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-logo="",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-logo="",MOV
+https://cc-runn.tv/bollyflix.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-logo="",Sony Pix HD
+https://edge2.roarzone.net/sonypix.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-logo="",Screen
+https://nomawnoijl.gpcdn.net/screen/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="",Star Gold
+sg
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="",Star Movies
+sm
+
+#EXTINF:-1 tvg-chno="53" tvg-logo="",M NX
+mnz
+
+#EXTINF:-1 tvg-chno="54" tvg-logo="",Animal Planet
+https://edge2.roarzone.net/animal.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-logo="",Adventure Earth
+https://rakuten.wurl.tv/adventure.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="",4K Travel
+https://sofast.tv/travel.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-logo="",InTravel
+https://rakuten.wurl.tv/intravel.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-logo="",Discovery HD
+https://edge2.roarzone.net/discovery.m3u8
+
+#EXTINF:-1 tvg-chno="59" tvg-logo="",Wild
+https://cloudfront.net/wild.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="",Outdoor
+https://amagi.tv/outdoor.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-logo="",Sony BBC Earth
+https://edge2.roarzone.net/bbcearth.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-logo="",Wild Earth
+https://wildearth.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-logo="",Weather Spy
+https://samsung.wurl.tv/weather.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-logo="",BBC Earth
+https://amagi.tv/bbcearth.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-logo="",60 Days
+https://aenetworks.com/60days.m3u8
+
+#EXTINF:-1 tvg-chno="66" tvg-logo="",Weather
+https://cloudfront.net/weather.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-logo="",Funny Junior HD
+https://nomawnoijl.gpcdn.net/funnyjunior.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="",Nikki
+https://nomawnoijl.gpcdn.net/nikki.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-logo="",JB
+https://junglebook.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-logo="",Gopal
+https://gopalbhar.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-logo="",Sony Ath
+s
+
+#EXTINF:-1 tvg-chno="72" tvg-logo="",Rongern TV
+https://server.thelegitpro.in/rongeen.m3u8
+
+#EXTINF:-1 tvg-chno="73" tvg-logo="",Kids Star
+https://nomawnoijl.gpcdn.net/kidsstar.m3u8
