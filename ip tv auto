@@ -1,0 +1,34 @@
+name: Auto Active IPTV Filter
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Download playlist
+        run: |
+          curl -L "https://go.skym3u.top/uw7b.m3u" -o source.m3u
+
+      - name: Filter active channels
+        run: |
+          python filter.py
+
+      - name: Commit update
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add active.m3u
+          git commit -m "Auto active channels update" || exit 0
+          git push
